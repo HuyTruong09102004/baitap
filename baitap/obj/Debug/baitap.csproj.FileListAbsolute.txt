@@ -1,0 +1,7 @@
+C:\Users\ACER\Bài tập lập trình Windows\repos\baitaptrenlop\baitap\baitap\bin\Debug\baitap.exe.config
+C:\Users\ACER\Bài tập lập trình Windows\repos\baitaptrenlop\baitap\baitap\bin\Debug\baitap.exe
+C:\Users\ACER\Bài tập lập trình Windows\repos\baitaptrenlop\baitap\baitap\bin\Debug\baitap.pdb
+C:\Users\ACER\Bài tập lập trình Windows\repos\baitaptrenlop\baitap\baitap\obj\Debug\baitap.csproj.AssemblyReference.cache
+C:\Users\ACER\Bài tập lập trình Windows\repos\baitaptrenlop\baitap\baitap\obj\Debug\baitap.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Bài tập lập trình Windows\repos\baitaptrenlop\baitap\baitap\obj\Debug\baitap.exe
+C:\Users\ACER\Bài tập lập trình Windows\repos\baitaptrenlop\baitap\baitap\obj\Debug\baitap.pdb
